@@ -44,7 +44,7 @@ We trained a **Linear Regression** model using:
 
 For a new household with a **Median Income of $60,000**
 ---
-##📬 Connect with Me
+📬 Connect with Me
 LinkedIn
 
 GitHub
