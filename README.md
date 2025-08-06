@@ -25,9 +25,7 @@ To explore the relationship between income levels and housing prices in Californ
 
 We start by visualizing the relationship between `MedInc` (Median Income) and `MedHouseVal` (Median House Value):
 
-![Scatter Plot](images/medinc_vs_houseval.png)
 
----
 
 ## 🧠 Model: Linear Regression
 
