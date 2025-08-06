@@ -43,6 +43,7 @@ We trained a **Linear Regression** model using:
 ## 🔍 Prediction Example:
 
 For a new household with a **Median Income of $60,000**
+---
 ##📬 Connect with Me
 LinkedIn
 
