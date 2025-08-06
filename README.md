@@ -1,4 +1,4 @@
-# Linear-Regression-with-the-California-Housing-Dataset
+
 # 🏠 California Housing Price Prediction using Linear Regression
 
 This project demonstrates a simple linear regression model using the [California Housing Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html). The goal is to predict **Median House Value** based on **Median Income** of households.
